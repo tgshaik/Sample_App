@@ -1,5 +1,5 @@
 # ~.autotest
-require 'autotest_notification'
+#require 'test_notifier/runner/autotest'
 SPEAKING = false
 DOOM_EDITION = false
 BUUF = false
